@@ -1,0 +1,11 @@
+[20-Jul-2015 20:36:11 Australia/Sydney] PHP Fatal error:  Call to undefined function get_header() in /home/crystal/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[11-Oct-2015 21:39:09 Australia/Sydney] PHP Fatal error:  Call to undefined function get_header() in /home/crystal/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[29-Oct-2015 18:09:02 Australia/Sydney] PHP Fatal error:  Call to undefined function get_header() in /home/crystal/public_html/wp-content/themes/twentyfourteen/index.php on line 17
+[29-Oct-2015 18:09:21 Australia/Sydney] PHP Fatal error:  Call to undefined function get_header() in /home/crystal/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[14-Jan-2016 02:31:45 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/crysta36/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[20-Feb-2016 06:01:36 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/crysta36/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[24-Apr-2016 23:07:53 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/crysta36/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[23-May-2016 03:37:09 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/crysta36/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[04-Mar-2017 04:06:23 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/crysta36/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[06-Mar-2017 04:50:29 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/crysta36/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[21-Apr-2017 12:43:10 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/crysta36/public_html/wp-content/themes/twentyfourteen/404.php on line 10

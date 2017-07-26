@@ -1,0 +1,5 @@
+[19-Jul-2015 20:16:06 Australia/Sydney] PHP Fatal error:  Call to undefined function get_header() in /home/crystal/public_html/wp-content/themes/vantage/404.php on line 10
+[11-Oct-2015 10:39:50 Australia/Sydney] PHP Fatal error:  Call to undefined function get_header() in /home/crystal/public_html/wp-content/themes/vantage/index.php on line 16
+[25-Feb-2016 23:58:59 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/crysta36/public_html/wp-content/themes/vantage/index.php on line 17
+[13-Mar-2016 16:29:28 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/crysta36/public_html/wp-content/themes/vantage/functions.php on line 13
+[13-Mar-2016 16:29:29 UTC] PHP Fatal error:  Call to undefined function do_action() in /home/crysta36/public_html/wp-content/themes/vantage/footer.php on line 1
